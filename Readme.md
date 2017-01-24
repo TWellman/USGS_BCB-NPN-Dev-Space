@@ -4,35 +4,35 @@ Data Processing and Visualization Ideas
 =======================================
 
 
-
+-----------
 Contacts:
 -----------
 Tristan Wellman (twellman@usgs.gov), Steven Aulenbach (saulenbach@usgs.gov), and Sky Bristol (sbristol@usgs.gov)
 
 Biogeographic Characterization Branch, Core Science Analytics, Synthesis and Libraries.
 
-A collaborative project with (Ecology) NPN partners
+A collaborative project with (Ecology) NPN partners.
 
 
-
+-----------
 Purpose:
 -----------
  This repository contains basic information and exploratory capabilities for retrieving, processing, and visualizing data from the National Phenology Network, which will ultimately become a new integration point within the National Biogeographic Map. The content provided herein mainly shows exploratory work, but is projected to be a hub for ensuing NPN activities and further content synthesis to present NPN content within the National Biogeographic Map.
 
 
-
+-----------
 Audiences:
 -----------
  Agricultural farmers, food supply managers and distributors, people involved in pest management, and gardeners; anyone who might utilize one of the many NPN published accumulated growing degree threshold models providing information, such as Spring indices (leaf or bloom). Notably, managers and decision makers at the local, State, and Federal levels with fiscal interests or authorized stewardship of related agricultural or environmental resources.
 
 
-
+-----------
 Development Status:
 -------------------
 Under development, exploratory python scripts have been created to examine data storage formats, basic statistics, error analysis, table processing, and general plotting. These scripts present functional case examples of processing and displaying NPN data. On deck, our ideas are being refined to production level capabilities for use in the National Biogeographic Map.
 
 
-
+-----------
 Source Code:
 --------------
   1) File: NPN_figs_timeseries_on_the_fly_vs_preproc.ipnb
@@ -72,6 +72,7 @@ Source Code:
 
   5) File: Misc. code snippets - forthcoming
 
+-----------
 Example Data:
 --------------
     a) Level III ecoregions (simplified) shapefile with feature uuids, a preliminary reference to  
